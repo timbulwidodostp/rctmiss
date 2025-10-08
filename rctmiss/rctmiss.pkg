@@ -1,0 +1,4 @@
+D 'glst': Generalized Least Squares for trend estimation of summarized dose-response data Use glst With STATA 19
+D
+F glst.ado
+F glst.hlp
