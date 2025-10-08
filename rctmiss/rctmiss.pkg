@@ -1,4 +1,5 @@
-D 'glst': Generalized Least Squares for trend estimation of summarized dose-response data Use glst With STATA 19
+D 'rctmiss': Analyse a randomised controlled trial (RCT) allowing for informatively missing outcome data Use rctmiss With STATA 19
 D
-F glst.ado
-F glst.hlp
+F rctmiss.ado
+F rctmiss.sthlp
+F rctmiss_smlik.ado
